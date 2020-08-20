@@ -1,0 +1,11 @@
+Chapter04/.ipynb_checkpoints/*
+*.o
+*.class
+
+tempCodeRunnerFile
+
+#two executables
+passbyref
+passbyvalue
+
+*.json
